@@ -1,0 +1,19 @@
+const hotels = [
+    { id: 1, name: 'Hotel One', location: 'City A' }
+];
+
+const restaurants = [
+    { id: 1, name: 'Restaurant One', cuisine: 'Italian' }
+];
+
+const flights = [
+    { id: 1, airline: 'Airline One', destination: 'City C' }
+];
+
+const attractions = [
+    { id: 1, name: 'Attraction One', type: 'Museum' }
+];
+
+const transportation = [
+    { id: 1, type: 'Taxi', availability: '24/7' }
+];
